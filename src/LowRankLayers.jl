@@ -1,5 +1,7 @@
 module LowRankLayers
 
-# Write your package code here.
+using Flux
+
+include("lora.jl")
 
 end
