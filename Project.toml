@@ -1,7 +1,7 @@
 name = "LowRankLayers"
 uuid = "b66182ab-a85c-43b0-99bd-d85cc47c5e50"
 authors = ["murrellb <murrellb@gmail.com> and contributors"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
